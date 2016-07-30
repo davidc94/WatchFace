@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\pre-dexed\debug\classes-f43bd6be37cd36a7331f0ad0a2901758cca03a7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\pre-dexed\debug\classes-15de66a12afd48cb1ebcf4767f98363ea016736a.jar" />
+    </item>
+    <item
+        jar="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\exploded-aar\com.android.support\palette-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b65c2fede61220ed2b6a063f11ca13160910089e">
+        <dex dex="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\pre-dexed\debug\classes-c027c1760b7a5653556397798d7e29b3f7fcbf53.jar" />
+    </item>
+    <item
+        jar="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-0d9d5022ee8ae45a9cd000cc3eb60607c4dbbdd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-c7965d7bd3e1b1b7e67ee9531890f8eabde1c99e.jar" />
+    </item>
+    <item
+        jar="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\pre-dexed\debug\classes-77a7e0b28a1c3ef742b8d16fcf339b5cfa3a1470.jar" />
+    </item>
+    <item
+        jar="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\pre-dexed\debug\classes-0da5cdc193b3edd2a710a86536bac22215c9d801.jar" />
+    </item>
+    <item
+        jar="C:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-cf1c91ceb01875f36ce2c6a7aa7cf46e1a2a6cca.jar" />
+    </item>
+    <item
+        jar="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\pre-dexed\debug\classes-49fe4242c9db3b9ebbae88cbcdaf62d766f84459.jar" />
+    </item>
+    <item
+        jar="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\exploded-aar\com.google.android.support\wearable\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="C:\Users\David-Desktop\Downloads\WatchFace\WatchFace1\Wearable\build\intermediates\pre-dexed\debug\classes-28bf73b38092af1399a83ee10be08303f7623bd6.jar" />
+    </item>
+
+</items>
